@@ -7,7 +7,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace StringKata
 {
     [TestClass]
-    public class StringKataTests
+    public class StringKataTest1
     {
         private StringCalculator calculator;
 
