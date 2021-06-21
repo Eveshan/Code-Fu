@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace StringKata
+namespace StringKata.Test1
 {
     [TestClass]
     public class StringKataTest1

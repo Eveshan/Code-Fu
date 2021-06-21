@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace StringKata
+namespace StringKata.Test2
 {
     [TestClass]
     public class StringKataTest2
