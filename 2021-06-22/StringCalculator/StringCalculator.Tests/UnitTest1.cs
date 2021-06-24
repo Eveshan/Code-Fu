@@ -118,13 +118,24 @@ namespace StringCalculator.Tests
         {
             //---------------Set up test pack-------------------
             StringCalculator stringCalculator = new StringCalculator();
+            Exception testException = new Exception();
             //---------------Assert Precondition----------------
 
             //---------------Execute Test ----------------------
-            var ex = Assert.Throws<Exception>(() => stringCalculator.Add(numbers));
+
+            //var ex = Assert.Throws<Exception>(() => stringCalculator.Add(numbers));
+
+            try
+            {
+                stringCalculator.Add(numbers);
+            }
+            catch (Exception ex)
+            {
+                testException = ex;
+            }
             //---------------Test Result -----------------------
-            ex.Should().NotBeNull();
-            ex.Message.Should().Be(expectedException);
+            testException.Should().NotBeNull();
+            testException.Message.Should().Be(expectedException);
         }
     }
 }
