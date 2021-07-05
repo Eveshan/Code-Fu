@@ -1,2 +1,0 @@
-# Code-Fu
-TDD Katas
