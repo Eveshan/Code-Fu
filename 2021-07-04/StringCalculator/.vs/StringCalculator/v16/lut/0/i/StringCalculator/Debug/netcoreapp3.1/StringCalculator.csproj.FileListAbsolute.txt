@@ -1,0 +1,6 @@
+C:\Users\eveshan\source\repos\StringKata\2021-07-04\StringCalculator\.vs\StringCalculator\v16\lut\0\b\StringCalculator\Debug\netcoreapp3.1\StringCalculator.deps.json
+C:\Users\eveshan\source\repos\StringKata\2021-07-04\StringCalculator\.vs\StringCalculator\v16\lut\0\b\StringCalculator\Debug\netcoreapp3.1\StringCalculator.dll
+C:\Users\eveshan\source\repos\StringKata\2021-07-04\StringCalculator\.vs\StringCalculator\v16\lut\0\i\StringCalculator\Debug\netcoreapp3.1\StringCalculator.AssemblyInfoInputs.cache
+C:\Users\eveshan\source\repos\StringKata\2021-07-04\StringCalculator\.vs\StringCalculator\v16\lut\0\i\StringCalculator\Debug\netcoreapp3.1\StringCalculator.AssemblyInfo.cs
+C:\Users\eveshan\source\repos\StringKata\2021-07-04\StringCalculator\.vs\StringCalculator\v16\lut\0\i\StringCalculator\Debug\netcoreapp3.1\StringCalculator.csproj.CopyComplete
+C:\Users\eveshan\source\repos\StringKata\2021-07-04\StringCalculator\.vs\StringCalculator\v16\lut\0\i\StringCalculator\Debug\netcoreapp3.1\StringCalculator.dll
